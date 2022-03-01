@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Britains wonder: or, Londons admiration. Being a true representation of a prodigious frost, which began about the beginning of Decemb. 1683. and continued till the fourth day of February following. And held on with such violence, that men and beasts, coaches and carts, went as frequently thereon, as boats were wont to pass before. There was also a street of booths built from the Temple to Southwark, where were sold all sorts of goods imaginable, ... It being the wonder of this present age, and a great consternation to all the spectators.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03509</idno>
+            <idno type="STC">Wing G1671</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[159]</idno>
+            <idno type="EEBO-CITATION">99886934</idno>
+            <idno type="PROQUEST">ocm99886934</idno>
+            <idno type="VID">181484</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03509)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181484)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[160])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Great Britains wonder: or, Londons admiration. Being a true representation of a prodigious frost, which began about the beginning of Decemb. 1683. and continued till the fourth day of February following. And held on with such violence, that men and beasts, coaches and carts, went as frequently thereon, as boats were wont to pass before. There was also a street of booths built from the Temple to Southwark, where were sold all sorts of goods imaginable, ... It being the wonder of this present age, and a great consternation to all the spectators.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Haly, and J. Millet, and sold by Robert Waltor, at the Globe on the north-side of St. Pauls-church, near that end towards Lndgate [sic]; where you may have all sorts and sizes o[f] coppy-books, and prints, not only English, but Italian, French, and Dutch. And by John Seller in the west-side of the Royal-Exchange.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Behold the wonder of this present age,".</note>
+                  <note>Place of publication from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Winter --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:181484:1" rendition="simple:additions"/>
+            <p>Great BRITAINS WONDER: OR, LONDONS Admiration.</p>
+            <p>Being a True Repreſentation of a Prodigious <hi>FROST,</hi> which began about the beginning of <hi>Decemb.</hi> 1683. and continued till the Fourth Day of <hi>February</hi> following. And held on with ſuch violence, that Men and Beaſts, Coaches and Carts, went as frequently thereon, as Boats were wont to paſs before.</p>
+            <p>There was alſo a Street of Booths built from the <hi>Temple</hi> to <hi>Southwark,</hi> where were Sold all ſorts of Goods imaginable, namely, Cloaths, Plate, Earthen Ware; Meat, Drink, Brandy, Tobacco, and a Hundred ſorts of other Commodities not here inſerted. It being the Wonder of this preſent Age, and a great conſternation to all the Spectators.</p>
+            <figure>
+               <figDesc>depiction of the 1683 frost fair on the Thames</figDesc>
+               <head>Arundel Houſe. Eſſex-Buildings. The Temple.</head>
+            </figure>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181484:2" rendition="simple:additions"/>
+            <l>BEhold the Wonder of this preſent Age,</l>
+            <l>A Famous <hi>RIVER</hi> now become a Stage.</l>
+            <l>Queſtion not what I now declare to you,</l>
+            <l>The <hi>Thames</hi> is now both <hi>Fair</hi> and <hi>Market</hi> too,</l>
+            <l>And many Thouſands dayly do reſort,</l>
+            <l>There to behold the Paſtime and the Sport</l>
+            <l>Early and late, uſed by young and old,</l>
+            <l>And valu'd not the fierceneſs of the Cold;</l>
+            <l>And did not think of that Almighty Hand</l>
+            <l>Who made the Waters bare, like to the Land:</l>
+            <l>Thouſands and Thouſands to the River flocks,</l>
+            <l>Where mighty flakes of Ice do lye like Rocks.</l>
+            <l>There may you ſee the <hi>Coaches</hi> ſwiftly run,</l>
+            <l>As if beneath the Ice were Waters none;</l>
+            <l>And ſholes of People every where there be,</l>
+            <l>Juſt like to Herrings in the brackiſh Sea;</l>
+            <l>And there the quaking Water-men will ſtand ye,</l>
+            <l>Kind Maſter, drink you Beer, or Ale, or Brandy:</l>
+            <l>Walk in, kind Sir, this Booth it is the chief,</l>
+            <l>We'l entertain you with a ſlice of Beef,</l>
+            <l>And what you pleaſe to Eat or Drink, 'tis here,</l>
+            <l>No Booth, like mine, affords ſuch dainty cheer.</l>
+            <l>Another crys, Here Maſter, they but ſcoff ye,</l>
+            <l>Here is a Diſh of famous new-made Coffee.</l>
+            <l>And ſome do ſay, a giddy ſenſeleſs Aſs</l>
+            <l>May on the <hi>THAMES</hi> be furniſh'd with a Laſs.</l>
+            <l>But to be ſhort, ſuch Wonders there are ſeen,</l>
+            <l>That in this Age before hath never been.</l>
+            <l>Before the <hi>Temple</hi> there a Street is made,</l>
+            <l>And there is one almoſt of every Trade:</l>
+            <l>There may you alſo this hard Froſty Winter,</l>
+            <l>See on the Rocky Ice a Working-<hi>PRINTER,</hi>
+            </l>
+            <l>Who hopes by his own Art to reap ſome gain,</l>
+            <l>Which he perchance does think he may obtain.</l>
+            <l>Here is alſo a Lottery and Muſick too,</l>
+            <l>Yea, a cheating, drunken, leud, and <hi>debauch'd crew.</hi>
+            </l>
+            <l>Hot Codlins, Pancakes, Duck, Gooſe, and Sack,</l>
+            <l>Rabit, Capon, Hen, Turkey, and a wooden Jack.</l>
+            <l>In this ſame Street before the <hi>Temple</hi> made,</l>
+            <l>There ſeems to be a brisk and lively Trade:</l>
+            <l>Where e'ry Booth hath ſuch a cunning Sign,</l>
+            <l>As ſeldome hath been ſeen in former time;</l>
+            <l>The <hi>Flying Piſs-pot</hi> is one of the ſame,</l>
+            <l>The <hi>Whip</hi> and <hi>Egg-ſhell,</hi> and the <hi>Broom</hi> by name:</l>
+            <l>And there if you have Money for to ſpend,</l>
+            <l>Each cunning Snap will ſeem to be your Friend.</l>
+            <l>There may you ſee ſmall Veſſels under Sail,</l>
+            <l>All's one to them, with or againſt the Gale,</l>
+            <l>And as they paſs they little Guns do fire,</l>
+            <l>Which feedeth ſome, and puffs them with deſire</l>
+            <l>To ſail therein, and when their Money's gone,</l>
+            <l>'Tis right, they cry, the <hi>Thames</hi> to come upon.</l>
+            <l>There on a Sign you may moſt plainly ſee't,</l>
+            <l>
+               <hi>Here's the firſt Tavern built in</hi> Freezeland-ſtreet:</l>
+            <l>There is Bull-baiting and Bear-baiting too,</l>
+            <l>That no Man living yet e're found ſo true;</l>
+            <l>And Foot-Ball play is there ſo common grown,</l>
+            <l>That on the <hi>Thames</hi> before was never known;</l>
+            <l>Coals being dear, are carry'd on Mens backs,</l>
+            <l>And ſome on Sledges there are drawn in Sacks;</l>
+            <l>Men do on Horſe-back ride from ſhore to ſhore,</l>
+            <l>Which formerly in Boats were wafted o're:</l>
+            <l>Poor people hard ſhifts make for livelihoods,</l>
+            <l>And happy are if they can ſell their Goods;</l>
+            <l>What you can buy for Three-pence on the ſhore,</l>
+            <l>Will coſt you Four-pence on the <hi>Thames,</hi> or more.</l>
+            <l>Now let me come to things more ſtrange, yet true,</l>
+            <l>And queſtion not what I declare to you;</l>
+            <l>There Roaſted was a great and well-fed Oxe,</l>
+            <l>And there, with Dogs, Hunted the cunning Fox;</l>
+            <l>Dancing o'th' Ropes, and Puppit-<hi>plays</hi> likewiſe,</l>
+            <l>The like before ue'r ſeen beneath the Skies;</l>
+            <l>All ſtand admir'd, and very well they may,</l>
+            <l>To ſee ſuch paſtimes, and ſuch ſorts of play.</l>
+            <l>Beſides the things I nam'd to you before,</l>
+            <l>There other Toys and Baubles are great ſtore;</l>
+            <l>There may you feaſt your wandring eyes enough,</l>
+            <l>There you may buy a Box to hold your Snuff:</l>
+            <l>No Fair nor Market underneath the Skies</l>
+            <l>That can afford you more Varieties;</l>
+            <l>There may you ſee ſome hundreds ſlide in Skeets,</l>
+            <l>And beaten paths like to the City Streets.</l>
+            <l>There were <hi>Dutch</hi> Whimſies turned ſwiftly round,</l>
+            <l>Faſter then Horſes run on level Ground:</l>
+            <l>The like to this I now to you do tell,</l>
+            <l>No former Age could ever parallel;</l>
+            <l>There's all that can ſupply moſt curious minds,</l>
+            <l>With ſuch Varieties of cunning Signs,</l>
+            <l>That I do think no Man doth underſtand,</l>
+            <l>Such merry Fancies ne'r were on the Land;</l>
+            <l>There is ſuch Whimſies on the Frozen Ice,</l>
+            <l>Makes ſome believe the <hi>Thames</hi> a Paradice.</l>
+            <l>And though theſe ſights be to our admiration,</l>
+            <l>Yet our ſins, our ſins, do call for lamentation.</l>
+            <l>Though ſuch unuſual Froſts to us are ſtrange,</l>
+            <l>Perhaps it may predict ſome greater Change;</l>
+            <l>And ſome do fear may a fore-runner be</l>
+            <l>Of an approaching ſad Mortality:</l>
+            <l>But why ſhould we to ſuch belief incline?</l>
+            <l>There's none that knows but the bleſt pow'r <hi>divine</hi>
+            </l>
+            <l>And whatſoe're is from <hi>Jehovah</hi> fent,</l>
+            <l>Poor Sinners ought therewith to be content;</l>
+            <l>If dreadful, then to fall upon the knee,</l>
+            <l>And beg remiſſion of the DEITY:</l>
+            <l>But if beyond our thoughts he ſends us ſtore,</l>
+            <l>With all our hearts let's thankful be therefore.</l>
+            <l>Now let us all in Great <hi>Jehovah</hi> truſt,</l>
+            <l>Who doth preſerve the Righteous and the Juſt;</l>
+            <l>And eke conclude Sin is the cauſe of all</l>
+            <l>The heavy Judgements that on us do fall:</l>
+            <l>And call to mind; fond Man, thy time miſpent,</l>
+            <l>Fall on thy knees, and heartily Repent,</l>
+            <l>Then will thy Saviour pitty take on thee,</l>
+            <l>And thou ſhalt live to all Eternity.</l>
+         </div>
+         <trailer>Finis</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed by</hi> M. Haly, <hi>and</hi> J. Millet, <hi>and ſold by</hi> Robert Walton, <hi>at the</hi> Globe <hi>on the North-ſide of</hi> St. Pauls-Church, <hi>near that end towards</hi> Ludgate; <hi>Where you may have all ſorts and ſizes o</hi> Coppy-Books, <hi>and</hi> Prints, <hi>not only</hi> Engliſh, <hi>but</hi> Italian, French, <hi>and</hi> Dutch. <hi>And by</hi> John Seller <hi>in the Weſh-ſide of the</hi> Royal-Exchange. 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
